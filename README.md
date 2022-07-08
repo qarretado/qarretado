@@ -38,3 +38,9 @@
 <img href="https://raw.githubusercontent.com/qarretado/qarretado/blob/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/qarretado/count.svg?"  />
+</div>
+
+###
