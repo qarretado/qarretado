@@ -14,11 +14,24 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="42" alt="python logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="42" alt="java logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="30" width="42" alt="ruby logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="30" width="42" alt="kotlin logo"  />
+  <img src="https://avatars.githubusercontent.com/u/874086?s=280&v=4" height="30" width="42" alt="junit logo"  />
+  <img src="https://blog.knoldus.com/wp-content/uploads/2020/01/TESTNG.png" height="30" width="42" alt="testng logo"  /
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="30" width="42" alt="seleniumwebdriver logo"  />
+  <img src="https://miro.medium.com/max/400/1*dbeTcEaIPgyZZ6aaC519RQ.png" height="32" width="32" alt="restassured logo"  />
+  <img src="https://images.ctfassets.net/q5gr0s7pk997/Th8458WoDPgh1xOcYjv4Q/b2328d538c7d499853bfff3ac11540c5/Cypress.png" height="32" width="32" alt="cypress logo"  />
+  <img src="https://i.pinimg.com/originals/87/e8/49/87e8491cdd5ee5dacf3059f0c0832ce7.png" height="32" width="35" alt="cucumber logo"  />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@4.19.0/icons/robotframework.svg" height="30" width="42" alt="robot logo"  />
+  <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" height="30" width="42" alt="postman logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" width="42" alt="docker logo"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" height="32" width="32" alt="jenkins logo"  />
+  <img src="https://jmeter.apache.org/images/jmeter_square.png" height="30" width="42" alt="jmeter logo"  />
+  <img src="https://qagroovers.files.wordpress.com/2019/06/images.png" height="30" width="35" alt="allure logo"  />
 </div>
 
 ###
