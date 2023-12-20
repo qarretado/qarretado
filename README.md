@@ -48,7 +48,7 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/qarretado/qarretado/blob/output/snake.svg" alt="Snake animation" />
+<img href="https://github.com/qarretado/qarretado/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
