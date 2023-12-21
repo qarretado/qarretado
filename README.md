@@ -10,7 +10,7 @@
 
 ###
 
-<p style="text-align:left">👩🏾‍💻 QA<br> 📚 Te ensino automação de testes de forma descomplicada <br>💻 Aprenda e pratique <br>🕵️‍♀️ Segue ai pra ajudar a nerd aqui<br>🤝 Amo a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+<p style="text-align:left">👩🏾‍💻 QA<br> 📚 Te ensino automação de testes de forma descomplicada <br>💻 Aprenda e pratique <br>🕵️‍♀️ Segue ai pra ajudar a nerd aqui<br>🤝 Amo compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
 
 ###
 
