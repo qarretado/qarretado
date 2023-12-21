@@ -6,6 +6,14 @@
 
 ###
 
+<h2 style="text-align:left">Sobre mim:</h2>
+
+###
+
+<p style="text-align:left">👩🏾‍💻 QA<br> 📚 Te ensino automação de testes de forma descomplicada <br>💻 Aprenda e pratique <br>🕵️‍♀️ Segue ai pra ajudar a nerd aqui<br>🤝 Amo a compartilhar conhecimento, qualquer dúvida estou à disposição.</p>
+
+###
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=qarretado" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=qarretado" height="150" alt="languages graph"  />
