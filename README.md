@@ -1,4 +1,4 @@
-<h2 align="left">QArretado 🌵<br>Quality Assurance Analyst 🔎🕵🏾🐞</h2>
+<h2 align="center">QArretado 🌵<br>Quality Assurance Analyst 🔎🕵🏾🐞</h2>
 
 ###
 
